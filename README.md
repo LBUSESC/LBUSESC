@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-welcome to the Software Engineering for Service Computing!
+Welcome to the Software Engineering for Service Computing!
